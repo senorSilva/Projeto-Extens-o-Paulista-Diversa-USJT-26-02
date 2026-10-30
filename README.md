@@ -2,7 +2,6 @@
 
 Projeto de extensão universitária da USJT na Avenida Paulista: um laboratório permanente de acolhimento, informação e cultura para a comunidade LGBTQIA+ da região.
 
- **Site:** https://paulistadiversa.com.br
 
 ## As cinco frentes
 
